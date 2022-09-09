@@ -1,1 +1,1 @@
-write a shell script that create a file name exactly containing a text ending by a new line
+write a script that write into the file ls_cwd_content
