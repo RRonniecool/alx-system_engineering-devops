@@ -1,1 +1,1 @@
-write a scrpt that sets the mode of the file
+write a script that sets the mode of the file hello the same as olleh mode
