@@ -1,1 +1,1 @@
-write a script that prints every other line from the input starting with the first line
+write a shell script that adds the number stored in the environment variables
