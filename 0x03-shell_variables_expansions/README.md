@@ -1,1 +1,1 @@
-there are 10 types of people in the world-those who understands binary and those who dont
+create a script that prints all possible combinations of two letters except oo
