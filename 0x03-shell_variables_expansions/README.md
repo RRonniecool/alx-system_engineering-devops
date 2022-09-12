@@ -1,1 +1,1 @@
-write a script that converts a number from base 10 to base 16
+write a script that encodes and decodes text using rot13 encryption
