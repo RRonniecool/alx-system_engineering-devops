@@ -1,1 +1,1 @@
-write a script that prints a number with 2 decimal places followed by a new line
+write a script that displays the result of BREATH to the power of LOVE
