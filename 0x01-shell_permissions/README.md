@@ -1,1 +1,1 @@
-create a script that adds all execute permissions to all subdirectories of the current directories for the owner
+create a script that creates a directory called my_dir with permissions 751 in the working directory
