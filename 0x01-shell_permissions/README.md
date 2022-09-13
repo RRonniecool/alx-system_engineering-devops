@@ -1,1 +1,1 @@
-write a script that changes the owner of the file hello to betty only if it is owned by guillaume
+write a script that play starwars ivepisode in the terminal
