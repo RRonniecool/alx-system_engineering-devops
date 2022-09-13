@@ -1,1 +1,1 @@
-write a script that sets the mode of the file hello the same as olleh mode
+create a script that adds all execute permissions to all subdirectories of the current directories for the owner
